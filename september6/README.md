@@ -1,7 +1,6 @@
 
-Reading Response
-
-“Autonomous Robots as Performing Agents” by Karl R. Wurst and Robert McCartney
+##Reading Response
+###“Autonomous Robots as Performing Agents” by Karl R. Wurst and Robert McCartney
 
 I held doubt initially when the authors claim that physical agents are “more entertaining and engaging” than virtual ones (56). We do see interesting performances and chatbots online. Should a physical embodiment be that important to raise attention and bring fun? Later, something struck my mind when I linked it to [an anthropology paper.](https://anthrosource.onlinelibrary.wiley.com/doi/10.1111/var.12027/) It seems to be a completely different scenario, but somehow also about performance and lighlights the sense of “*xian chang* [on the scene]”. Even though audiences don’t perform like the writers, the power of being “on the scene” makes things totally different because people can feel themselves part of a scene which is unfolding over time. After all, the physical environment involves all your senses on another level, consciously or unconsciously. 
 
