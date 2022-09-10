@@ -1,8 +1,10 @@
 ## Chapter 5: Robots: Asleep, Awake, Alone, and in Love - New Media Dramaturgy Performance Media and New-Materialism
 
 ### Interesting points for me: 
-1. The power of concept: 
+The power of concept: 
+
 **Hyperobject:** filled with an abundance of agents (gyre of plastic bags/climate change), demand nothing from humans, repellent to humans.
+
 **Protosubject:** remains human-scaled. -> possibility of encounter alive
 
 In the virtual domains of art and theatre, the ontological values of actants are less fixed. -> we question if the indistinguishable boundary between human and machine is realizable.
