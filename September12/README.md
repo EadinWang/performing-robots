@@ -1,21 +1,21 @@
 ## Chapter 5: Robots: Asleep, Awake, Alone, and in Love - New Media Dramaturgy Performance Media and New-Materialism
 
 ### Interesting points for me: 
-The power of concept: 
+1. The power of concept: 
 
 **Hyperobject:** filled with an abundance of agents (gyre of plastic bags/climate change), demand nothing from humans, repellent to humans.
 
 **Protosubject:** remains human-scaled. -> possibility of encounter alive
 
-In the virtual domains of art and theatre, the ontological values of actants are less fixed. -> we question if the indistinguishable boundary between human and machine is realizable.
+2. In the virtual domains of art and theatre, the ontological values of actants are less fixed. -> we question if the indistinguishable boundary between human and machine is realizable.
 
 
 ### New arguments on HRI for me: 
-Robots represent indifferences of gender and race, expressing nostalgia for the ‘good old days’ of racial purity and hyper-conformity. (Robertson)
+1. Robots represent indifferences of gender and race, expressing nostalgia for the ‘good old days’ of racial purity and hyper-conformity. (Robertson)
 
-Humans still rely on emotional responses to interpret the ‘thing-ness’ of the object rather than creating alternative ways of encountering and engaging with it.
+2. Humans still rely on emotional responses to interpret the ‘thing-ness’ of the object rather than creating alternative ways of encountering and engaging with it.
 
-Human-like features can be a kind of narcissism from human-being. Anthropomorphic perception can/should promote empathetic engagement instead of privilege over non-human. 
+3. Human-like features can be a kind of narcissism from human-being. Anthropomorphic perception can/should promote empathetic engagement instead of privilege over non-human. 
 
 
 ### Thoughts & Questions: 	
