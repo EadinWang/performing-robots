@@ -1,5 +1,7 @@
-## Digital Theater - The ‘Other’ Actor
-### 3 types of digital actor: Digital Puppets / Video Actors / Mechanical Actors
+## Reading Response
+### Digital Theater - The ‘Other’ Actor
+
+#### 3 types of digital actor: Digital Puppets / Video Actors / Mechanical Actors
 
 Dancing like marionettes can be appreciated: “humans should dance like marionettes and marionettes like humans.” ***Does it somehow show a kind of fetish/fetishism from humans?*** 
 In the end, there seems to be a mutual mimicry between humans and puppets. 
