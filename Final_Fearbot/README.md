@@ -6,6 +6,7 @@
 What else can I say
 
 ## Documentation
-<img src="https://github.com/EadinWang/performing-robots/blob/fa93746134fa86f8bb76998f8c3f7810ea565e4b/November7/soldering_documentation.pic.jpg" alt="soldering" width="400"/>
+<img src="https://github.com/EadinWang/performing-robots/blob/eb276669fefa262b490c84ad8076389f2cdf3b80/Final_Fearbot/arm%20building.pic.jpg" width="300"/> <img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/math.pic.jpg" width="300"/><img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/paint.pic.jpg" width="300"/><img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/base1.pic.jpg" width="300"/><img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/basedetail.pic.jpg" width="300"/><img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/drying.pic.jpg" width="300"/><img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/primitivebody.pic.jpg" width="300"/><img src="https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/servo%2Bneo.pic.jpg" width="300"/>
 
-https://user-images.githubusercontent.com/112384208/200138658-46297b55-e50c-4f82-83af-11fc3e600b4e.mp4
+
+https://github.com/EadinWang/performing-robots/blob/main/Final_Fearbot/behavior.mov
