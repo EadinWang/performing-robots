@@ -1,6 +1,9 @@
 # Final: Fearbot 
 ## Brief
 ### Partner: Dania 💗
+
+The play is a robot theater adapted from the movie *Inside Out.* Our group is responsible of the emotion robot Fear. 
+
 [Link to the script](https://docs.google.com/document/d/1mkKricQpY-A2F4YMmhfKIHN44LKA5xzdeJPMUYEpfcc/edit?usp=sharing/)
 
 What else can I say
